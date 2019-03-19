@@ -1,2 +1,2 @@
-# CS300_Fall2018
+# CS300_Spring2018
 Programming II , Java
